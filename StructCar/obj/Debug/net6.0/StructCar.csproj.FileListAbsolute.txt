@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\StructCar\StructCar\bin\Debug\net6.0\StructCar.exe
+C:\Users\Pavani\source\repos\StructCar\StructCar\bin\Debug\net6.0\StructCar.deps.json
+C:\Users\Pavani\source\repos\StructCar\StructCar\bin\Debug\net6.0\StructCar.runtimeconfig.json
+C:\Users\Pavani\source\repos\StructCar\StructCar\bin\Debug\net6.0\StructCar.dll
+C:\Users\Pavani\source\repos\StructCar\StructCar\bin\Debug\net6.0\ref\StructCar.dll
+C:\Users\Pavani\source\repos\StructCar\StructCar\bin\Debug\net6.0\StructCar.pdb
+C:\Users\Pavani\source\repos\StructCar\StructCar\obj\Debug\net6.0\StructCar.csproj.AssemblyReference.cache
+C:\Users\Pavani\source\repos\StructCar\StructCar\obj\Debug\net6.0\StructCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\StructCar\StructCar\obj\Debug\net6.0\StructCar.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\StructCar\StructCar\obj\Debug\net6.0\StructCar.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\StructCar\StructCar\obj\Debug\net6.0\StructCar.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\StructCar\StructCar\obj\Debug\net6.0\StructCar.dll
+C:\Users\Pavani\source\repos\StructCar\StructCar\obj\Debug\net6.0\ref\StructCar.dll
+C:\Users\Pavani\source\repos\StructCar\StructCar\obj\Debug\net6.0\StructCar.pdb
+C:\Users\Pavani\source\repos\StructCar\StructCar\obj\Debug\net6.0\StructCar.genruntimeconfig.cache
